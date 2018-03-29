@@ -1,0 +1,82 @@
+
+Executando arquivo: C:\access_log_Jul95
+1. Número de hosts únicos: 81983
+2. Total de erros 404: 10845
+3. Os 5 Urls que mais causaram erro 404:
+1º: phaelon.ksc.nasa.gov/icons/DocsToc.gif
+2º: phaelon.ksc.nasa.gov/icons/DocsRightArrowSmall.gif
+3º: phaelon.ksc.nasa.gov/icons/DocsLeftArrowSmall.gif
+4º: 202.239.48.3/shuttle/missions/sts-65-mission-sts-65.html
+5º: proxy.austin.ibm.com/news/sci.space.shuttle/archive/sci-space-shuttle-9-aug-1994-62.txt
+4. Quantidade de erros 404 por dia:
+Dia: 19/Jul/1995 | Quantidade 404: 639
+Dia: 16/Jul/1995 | Quantidade 404: 257
+Dia: 10/Jul/1995 | Quantidade 404: 398
+Dia: 25/Jul/1995 | Quantidade 404: 461
+Dia: 01/Jul/1995 | Quantidade 404: 316
+Dia: 02/Jul/1995 | Quantidade 404: 291
+Dia: 28/Jul/1995 | Quantidade 404: 94
+Dia: 21/Jul/1995 | Quantidade 404: 334
+Dia: 08/Jul/1995 | Quantidade 404: 302
+Dia: 05/Jul/1995 | Quantidade 404: 497
+Dia: 14/Jul/1995 | Quantidade 404: 413
+Dia: 12/Jul/1995 | Quantidade 404: 471
+Dia: 17/Jul/1995 | Quantidade 404: 406
+Dia: 26/Jul/1995 | Quantidade 404: 336
+Dia: 03/Jul/1995 | Quantidade 404: 474
+Dia: 06/Jul/1995 | Quantidade 404: 640
+Dia: 23/Jul/1995 | Quantidade 404: 233
+Dia: 18/Jul/1995 | Quantidade 404: 465
+Dia: 20/Jul/1995 | Quantidade 404: 428
+Dia: 09/Jul/1995 | Quantidade 404: 348
+Dia: 15/Jul/1995 | Quantidade 404: 254
+Dia: 11/Jul/1995 | Quantidade 404: 471
+Dia: 24/Jul/1995 | Quantidade 404: 328
+Dia: 27/Jul/1995 | Quantidade 404: 336
+Dia: 04/Jul/1995 | Quantidade 404: 359
+Dia: 07/Jul/1995 | Quantidade 404: 570
+Dia: 22/Jul/1995 | Quantidade 404: 192
+Dia: 13/Jul/1995 | Quantidade 404: 532
+5. Total de bytes retornados: 38695973491
+
+Executando arquivo: C:\access_log_Aug95
+1. Número de hosts únicos: 75060
+2. Total de erros 404: 10056
+3. Os 5 Urls que mais causaram erro 404:
+1º: nexus.mlckew.edu.au/images/nasa-logo.gif
+2º: 203.13.168.17/images/nasa-logo.gif
+3º: 203.13.168.24/images/nasa-logo.gif
+4º: crl5.crl.com/images/nasa-logo.gif
+5º: onramp2-9.onr.com/images/nasa-logo.gif
+4. Quantidade de erros 404 por dia:
+Dia: 16/Aug/1995 | Quantidade 404: 259
+Dia: 10/Aug/1995 | Quantidade 404: 315
+Dia: 19/Aug/1995 | Quantidade 404: 209
+Dia: 13/Aug/1995 | Quantidade 404: 216
+Dia: 22/Aug/1995 | Quantidade 404: 288
+Dia: 07/Aug/1995 | Quantidade 404: 537
+Dia: 25/Aug/1995 | Quantidade 404: 415
+Dia: 30/Aug/1995 | Quantidade 404: 571
+Dia: 28/Aug/1995 | Quantidade 404: 410
+Dia: 24/Aug/1995 | Quantidade 404: 420
+Dia: 27/Aug/1995 | Quantidade 404: 370
+Dia: 18/Aug/1995 | Quantidade 404: 256
+Dia: 31/Aug/1995 | Quantidade 404: 526
+Dia: 01/Aug/1995 | Quantidade 404: 243
+Dia: 04/Aug/1995 | Quantidade 404: 346
+Dia: 29/Aug/1995 | Quantidade 404: 420
+Dia: 09/Aug/1995 | Quantidade 404: 279
+Dia: 26/Aug/1995 | Quantidade 404: 366
+Dia: 03/Aug/1995 | Quantidade 404: 304
+Dia: 20/Aug/1995 | Quantidade 404: 312
+Dia: 12/Aug/1995 | Quantidade 404: 196
+Dia: 15/Aug/1995 | Quantidade 404: 327
+Dia: 06/Aug/1995 | Quantidade 404: 373
+Dia: 21/Aug/1995 | Quantidade 404: 305
+Dia: 11/Aug/1995 | Quantidade 404: 263
+Dia: 05/Aug/1995 | Quantidade 404: 236
+Dia: 17/Aug/1995 | Quantidade 404: 271
+Dia: 14/Aug/1995 | Quantidade 404: 287
+Dia: 23/Aug/1995 | Quantidade 404: 345
+Dia: 08/Aug/1995 | Quantidade 404: 391
+5. Total de bytes retornados: 26828341424
